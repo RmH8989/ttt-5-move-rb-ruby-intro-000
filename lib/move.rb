@@ -13,4 +13,3 @@ end
 def move(board, user_input, first_player = "X")
   board[user_input] = first_player = "X"
 end
-input_to_index (board, 5, "X")
